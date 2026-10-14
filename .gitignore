@@ -1,0 +1,5 @@
+# Ed25519 tohumu ve benzeri gizler repoya girmez
+*.seed
+*.pem
+.env
+.env.*
